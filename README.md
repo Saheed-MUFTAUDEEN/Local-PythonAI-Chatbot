@@ -12,9 +12,8 @@ This AI chatbot is built with LangChain, leverage large language model run local
 
 ## Installation
  1. Install Ollama
->Follow the instruction on [Ollama's GitHub repository](https://github.com/ollama/ollama) to install the platform ad the requird commandline tool.
+    - Follow the instruction on [Ollama's GitHub repository](https://github.com/ollama/ollama) to install the platform ad the requird commandline tool.
    
-2. Install Python Packages
-> Open your terminal and install the neccessary pytho packages:
-
-   pip install langchain langchain-ollama ollama
+3. Install Python Packages
+   -Open your terminal and install the neccessary pytho packages:
+    - pip install langchain langchain-ollama ollama
